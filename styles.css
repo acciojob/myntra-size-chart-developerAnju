@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+table,table td,table th{
+	border: 1px solid #000;
+	border-collapse: collapse;
+	text-align: start;
+	font-weight: 400;
+}
+.right{
+	text-align: right;
+}
+th{
+	background-color: #c0504d;
+	color: #fff;
+}
+.waist td{
+	background-color: #da9694;
+	color: #fff;
+}
+.chest td{
+	background-color: #f2dcdb;
+}
+.sleeve td{
+	background-color: #d9d9d9;
+}
